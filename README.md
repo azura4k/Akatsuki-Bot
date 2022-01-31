@@ -1,2 +1,2 @@
-# Akatsuki-Bot
-Just a nice little moderation bot I'm working on. There is profanity in the code, very deep profanity, so be careful. 
+# Akatsuki-Discord-Bot
+ Just a nice discord bot I coded.
